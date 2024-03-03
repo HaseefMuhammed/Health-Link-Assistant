@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+.head{
+    font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4em;
+}
+body{
+    background-image: url("images/bg\ \(7\).png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.game{
+    font-family: "Permanent Marker", cursive;
+    font-weight: bolder;
+    font-style: normal;
+}
